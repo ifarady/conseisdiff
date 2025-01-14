@@ -3,6 +3,8 @@
 
 This repository provides the training code and Colab notebook for **CoSeDif** (Conditional Seismic Diffusion), a conditional denoising diffusion model designed to generate high-fidelity synthetic seismic data. By conditioning on fault attributes and edge maps, CoSeDif produces realistic 2D seismic images.
 
+![ConSeisDiff Workflow](images/workflow.png)
+
 For usage, please refer to the inference notebook, which demonstrates how to generate synthetic data and calculate relevant metrics.
 
 ## Current Status
